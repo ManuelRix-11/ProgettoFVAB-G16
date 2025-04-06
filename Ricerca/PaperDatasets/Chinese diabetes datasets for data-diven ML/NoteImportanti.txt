@@ -1,0 +1,30 @@
+N.B. Continuous glucose monitoring (CGM)
+
+All'interno dei due dataset T1DM e T2DM, sbilanciati
+poiché tipo 1 = 12 e tipo 2 = 100
+
+TIR (time in range), IMPORTANTE, variazioni di glucosio e stima di controllo glicemico. 
+Associato a complicazioni micro e macro vascolari derivanti dal diabete.
+
+TBR (time below range) e TAR (time above range), rispettivamente, 
+percentuale dove il glucosio nel sangue è inferiore a 70mg/dL e sopra 180mg/dL.
+
+Per T1DM, T2DM i valori raccomandati del CGM sono:
+ >=70% TIR
+ <=25% TAR
+ <=4% TBR
+
+Analisi di dati CGM:
+Task importatnte per la gestione del diabete è la prevenzione di
+eventi ipo/iper glicemici.
+L'algoritmo per prevenirli si ottiene generando ipo/iper allerte su 
+predizioni ahead of time sulla concentrazione di glucosio usando dati CGM precedenti
+(una time series in pratica).
+La "Auto-correlation" è il grado di similarità tra una time series (quella di prima), e
+una sua versione "laggata" nel tempo successivo ad intervalli di tempo.
+Aiuta a scoprire pattern all'inteno dei dati.
+La funzione di "Auto-correlation" (ACF) definita come
+$$P_k = \fract{E[(x_t - \micro)(x_{t-k}-\micro)]}{\alpha^2}
+Dove x è l'osservazione nel tempo t, k è il lag, E è il valore atteso, \micro è la media e \alpha^2 è la varianza nella TS.
+P_k mostra la correlazione tra due osservazioni con un lag k nella TS$$
+
