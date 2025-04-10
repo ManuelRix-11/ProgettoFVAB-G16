@@ -1,0 +1,29 @@
+Dataset T1Diabetes Granada (T1D)
+
+Diviso per tipo di diabete in T1D e T2D.
+Principale differenza è età e trattamenti dei pazienti.
+
+T1D più giovani di T2D, anche se nell'ultimo periodo
+ stanno aumentando i casi di T1D negli adulti.
+
+(BGL) Blood Glucose Level
+(CGM) Continous Glucose Meters
+(FGM) Flash Glucose Meters
+
+Dataset composto da:
+- Patient_info.csv, 736 righe, 11 feature, contiene 
+ informazioni sui pazienti
+- Glucose_measurements.csv, +22 milioni di righe, 4 feature,
+ contiene misurazioni del CGM dei pazienti
+- Biochemical_parameters.csv, 87 mila righe, 4 feature, contiene
+ dati dei test biochimici dei pazienti
+- Diagnostics.csv, 1757 righe, 3 feature, contiene le diagnosi
+ di complicazioni dovute al diabete o altre malattie in più al diabete
+
+Data preparation utilizzato:
+Eliminati dati personali del paziente e quelli irrilevanti allo studio;
+Aggiunti ID ai pazienti;
+Rimossi duplicati;
+Rimosse LE RIGHE con feature rilevanti = null;
+Rimozione delle colonne vuote;
+Riformattazione dei tipo date in formato "americano", YYYY-MM-DD

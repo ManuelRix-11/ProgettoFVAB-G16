@@ -1,0 +1,11 @@
+REPLACE-BG: a public dataset collecting real CGM 
+data during 182 days from 226 T1D patients 
+with well-controlled DM
+
+
+The D1NAMO Open Dataset”: an open dataset collecting real 
+CGM data during approximately 30 days from 9 T1D patients
+
+
+OhioT1DM Dataset: an on-request dataset collecting real 
+CGM data during 56 days from 12 T1D patients;
