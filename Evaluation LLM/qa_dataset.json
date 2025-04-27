@@ -1,0 +1,102 @@
+[
+    {
+        "question": "Che cos'è il diabete?",
+        "answer": "Il diabete è una malattia cronica caratterizzata da livelli elevati di glucosio nel sangue, dovuti a un'insufficiente produzione o utilizzo inefficace di insulina."
+    },
+    {
+        "question": "Quali sono i sintomi comuni del diabete?",
+        "answer": "Minzione frequente, sete e fame eccessive, perdita di peso inspiegabile, affaticamento, visione offuscata, formicolio o intorpidimento alle estremità, pelle secca, ferite che guariscono lentamente e infezioni frequenti."
+    },
+    {
+        "question": "Quali sono i tipi principali di diabete?",
+        "answer": "Diabete di tipo 1, diabete di tipo 2 e diabete gestazionale."
+    },
+    {
+        "question": "Come viene diagnosticato il diabete?",
+        "answer": "Attraverso test come glicemia a digiuno, test di tolleranza al glucosio orale e misurazione dell'emoglobina A1c."
+    },
+    {
+        "question": "Quali sono i valori normali della glicemia?",
+        "answer": "A digiuno tra 65 e 110 mg/dL; dopo i pasti generalmente inferiori a 180 mg/dL."
+    },
+    {
+        "question": "Quali sono i fattori di rischio per il diabete di tipo 2?",
+        "answer": "Sovrappeso, stile di vita sedentario, alimentazione scorretta e familiarità con la malattia."
+    },
+    {
+        "question": "Come si può prevenire il diabete di tipo 2?",
+        "answer": "Seguendo uno stile di vita sano: alimentazione equilibrata, attività fisica regolare, controllo del peso corporeo e evitando fumo e abuso di alcol."
+    },
+    {
+        "question": "Il diabete è curabile?",
+        "answer": "No, il diabete non è curabile, ma può essere gestito efficacemente con monitoraggio della glicemia, dieta, attività fisica e farmaci o insulina."
+    },
+    {
+        "question": "Quali complicazioni può causare il diabete non controllato?",
+        "answer": "Malattie cardiovascolari, danni ai reni, danni ai nervi, problemi agli occhi e piede diabetico."
+    },
+    {
+        "question": "Cosa significa A1c e quale dovrebbe essere il suo valore?",
+        "answer": "L'emoglobina A1c indica la media della glicemia negli ultimi 2-3 mesi; un valore inferiore al 5,7% è normale, tra 5,7% e 6,4% è prediabete, 6,5% o superiore indica diabete."
+    },
+    {
+        "question": "Che cos'è il diabete di tipo 1?",
+        "answer": "Il diabete di tipo 1 è una malattia autoimmune in cui il sistema immunitario attacca e distrugge le cellule beta del pancreas che producono insulina."
+    },
+    {
+        "question": "A che età si manifesta solitamente il diabete di tipo 1?",
+        "answer": "Il diabete di tipo 1 può svilupparsi a qualsiasi età, ma è più comune nell'infanzia e nell'adolescenza."
+    },
+    {
+        "question": "Qual è la differenza principale tra diabete di tipo 1 e tipo 2?",
+        "answer": "Nel tipo 1 il corpo non produce insulina; nel tipo 2 il corpo produce insulina, ma non la utilizza efficacemente."
+    },
+    {
+        "question": "Quali sono i sintomi di esordio del diabete di tipo 1?",
+        "answer": "Sete intensa, minzione frequente, perdita di peso improvvisa, stanchezza estrema, irritabilità e visione offuscata."
+    },
+    {
+        "question": "Come si tratta il diabete di tipo 1?",
+        "answer": "Il trattamento del diabete di tipo 1 richiede somministrazione quotidiana di insulina, monitoraggio regolare della glicemia, dieta equilibrata e attività fisica."
+    },
+    {
+        "question": "Che cos'è l'insulina e quale ruolo ha nel diabete?",
+        "answer": "L'insulina è un ormone prodotto dal pancreas che consente al glucosio di entrare nelle cellule; nel diabete, la produzione o l'uso dell'insulina è compromesso."
+    },
+    {
+        "question": "Che cos'è la chetoacidosi diabetica?",
+        "answer": "È una complicanza grave del diabete di tipo 1 causata da carenza di insulina, che porta ad accumulo di chetoni e acidificazione del sangue."
+    },
+    {
+        "question": "Quali strumenti possono aiutare a gestire il diabete di tipo 1?",
+        "answer": "Piani alimentari personalizzati, microinfusori di insulina, sensori di glicemia continua e monitoraggi frequenti della glicemia capillare."
+    },
+    {
+        "question": "È possibile prevenire il diabete di tipo 1?",
+        "answer": "No, attualmente il diabete di tipo 1 non può essere prevenuto, poiché ha una base autoimmune e genetica."
+    },
+    {
+        "question": "Quali alimenti sono consigliati per chi ha il diabete?",
+        "answer": "Alimenti ricchi di fibre, frutta a basso indice glicemico, verdure, cereali integrali, legumi e proteine magre."
+    },
+    {
+        "question": "Come cambia la gestione del diabete durante l'attività fisica?",
+        "answer": "L'attività fisica può abbassare la glicemia, quindi è importante monitorarla prima, durante e dopo l'esercizio e adattare dosi di insulina o spuntini."
+    },
+    {
+        "question": "Il diabete di tipo 2 può essere reversibile?",
+        "answer": "In alcuni casi il diabete di tipo 2 può essere parzialmente reversibile attraverso modifiche dello stile di vita, ma richiede monitoraggio costante."
+    },
+    {
+        "question": "Che cos'è l'ipoglicemia?",
+        "answer": "L'ipoglicemia è una condizione in cui la glicemia scende sotto i valori normali, causando sintomi come tremori, sudorazione, confusione e debolezza."
+    },
+    {
+        "question": "Quali sono le cause dell'ipoglicemia in una persona con diabete di tipo 1?",
+        "answer": "Eccesso di insulina, pasti saltati o insufficienti, esercizio fisico intenso senza adeguata regolazione della terapia o dei carboidrati."
+    },
+    {
+        "question": "Che ruolo ha il monitoraggio continuo della glicemia (CGM)?",
+        "answer": "Il CGM permette di controllare costantemente i livelli di glucosio, prevenendo ipoglicemie o iperglicemie e migliorando la gestione complessiva del diabete."
+    }
+]
