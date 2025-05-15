@@ -19,6 +19,7 @@ distribuzioni in statistica, la KS-statistic (Kolmogorov-Smirnov statistic).
 Quando applicata alla valutazione di dati sintetici, viene utilizzata per confrontare la 
 distribuzione statistica tra i dati generati e i dati reali
 
+# Tabella risultati
 | Modello | Run Locale | Run as Service | Evaluation QA (Local) | Evaluation QA (Service) | Evaluation SynGen (TDB) |
 |--------|:----------:|:--------------:|:---------------------:|:-----------------------:|:-----------------------:|
 | gemma2:9b |     ✅      |       ✅        |         ≈72%          |          ≈80%           |                         |
