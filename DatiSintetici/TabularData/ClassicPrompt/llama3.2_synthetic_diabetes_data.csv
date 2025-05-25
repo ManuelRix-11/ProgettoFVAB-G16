@@ -1,0 +1,13 @@
+encounter_id,patient_nbr,race,gender,age,weight,admission_type_id,discharge_disposition_id,admission_source_id,time_in_hospital,payer_code,medical_specialty,num_lab_procedures,num_procedures,num_medications,number_outpatient,number_emergency,number_inpatient,diag_1,diag_2,diag_3,number_diagnoses,max_glu_serum,A1Cresult,metformin,repaglinide,nateglinide,chlorpropamide,glimepiride,acetohexamide,glipizide,glyburide,tolbutamide,pioglitazone,rosiglitazone,acarbose,miglitol,troglitazone,tolazamide,examide,citoglipton,insulin,glyburide-metformin,glipizide-metformin,glimepiride-pioglitazone,metformin-rosiglitazone,metformin-pioglitazone,change,diabetesMed,readmitted
+1,12345,Caucasian,Male,67.0,150.0,2,Patient Discharge,1,Acute Coronary Syndrome,Cardiology,5,2,0,0,0,1,0.0,85.0,6.8,3,7,9,0,0,0.0,,,,,,,,,,,,,,,,,,,,,,,,
+2,67890,Black,Female,62.0,165.0,3,Patient Admission,2,Hypertension,Nephrology,10,4,1,1,1,1,1.0,80.0,5.6,2,6,8,0,0,0.0,,,,,,,,,,,,,,,,,,,,,,,,
+3,34567,American Indian,Male,78.0,180.0,4,Patient Discharge,3,Copd,Pulmonology,11,5,0,0,0,1,0.0,90.0,7.4,3,9,10,0,0,0.0,,,,,,,,,,,,,,,,,,,,,,,,
+4,90123,Asian Female,45,155.0,2.0,Patient Admission,1,Diabetes,Oncology,12,6,1,1,1,1,0,85.0,5.4,2.0,7,9,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,
+5,45678,American Indian,Male,65.0,160.0,3,Patient Discharge,2,Hypertension,Cardiology,13,7,1,1,1,1,1.0,90.0,6.8,4,10,11,0,0,0.0,,,,,,,,,,,,,,,,,,,,,,,,
+6,11111,Caucasian,Male,70.0,170.0,4,Patient Admission,3,Dementia,Neurology,14,8,1,1,1,1,0.0,95.0,7.2,3,12,13,0,0,0.0,,,,,,,,,,,,,,,,,,,,,,,,
+7,22222,Black,Female,75.0,180.0,5,Patient Discharge,4,Copd,Cardiology,15,9,1,1,1,1,1.0,100.0,8.2,6,14,16,0,0,0.0,,,,,,,,,,,,,,,,,,,,,,,,
+8,33333,American Indian,Male,60.0,155.0,3,Patient Admission,5,Hypertension,Nephrology,16,10,1,1,1,1,0.0,85.0,5.6,2,7,9,0,0,0.0,,,,,,,,,,,,,,,,,,,,,,,,
+9,44444,Caucasian,Male,68.0,165.0,4,Patient Discharge,2,Diabetes,Oncology,17,11,1,1,1,1,1.0,90.0,5.8,3,12,14,0,0,0.0,,,,,,,,,,,,,,,,,,,,,,,,
+10,55555,Black,Female,58.0,155.0,2,Patient Admission,3,Copd,Cardiology,18,12,1,1,1,1,0.0,85.0,6.8,4,11,13,0,0,0.0,,,,,,,,,,,,,,,,,,,,,,,,
+11,66666,American Indian,Male,72.0,160.0,5,Patient Discharge,4,Hypertension,Neurology,19,13,1,1,1,1,0.0,95.0,7.2,6,15,17,0,0,0.0,,,,,,,,,,,,,,,,,,,,,,,,
+12,77777,Caucasian,Male,80.0,170.0,5,Patient Admission,5,Dementia,Oncology,20,14,1,1,1,1,0.0,100.0,8.2,3,16,18,0,0,0.0,,,,,,,,,,,,,,,,,,,,,,,,
