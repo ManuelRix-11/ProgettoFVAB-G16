@@ -1,0 +1,6 @@
+GPT: 84.49% (Differenze Assolute e Distanza Euclidea Normalizzata)
+GPT: 86.46% (KS-statistic e Jensen-Shannon)
+
+Mistral: 76.77% (Differenze Assolute e Distanza Euclidea Normalizzata)
+Mistral: 78.07% (KS-statistic e Jensen-Shannon)
+

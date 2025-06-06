@@ -1,0 +1,24 @@
+GPT: 99.57% (Differenze Assolute e Distanza Euclidea Normalizzata)
+GPT: 99.73% (KS-statistic e Jensen-Shannon)
+
+gemma: 72.70% (Differenze Assolute e Distanza Euclidea Normalizzata)
+gemma: 70.21% (KS-statistic e Jensen-Shannon)
+
+llama-3.3-70b-versatile: 72.29% (Differenze Assolute e Distanza Euclidea Normalizzata)
+llama-3.3-70b-versatile: 75.70% (KS-statistic e Jensen-Shannon)
+
+llama3.2: 43.72% (Differenze Assolute e Distanza Euclidea Normalizzata)
+llama3.2: 48.35% (KS-statistic e Jensen-Shannon)
+
+mistral-large-2411: 64.36% (Differenze Assolute e Distanza Euclidea Normalizzata)
+mistral-large-2411: 64.36% (KS-statistic e Jensen-Shannon)
+
+mistral-small-2503: 63.90% (Differenze Assolute e Distanza Euclidea Normalizzata)
+mistral-small-2503: 63.90% (KS-statistic e Jensen-Shannon)
+
+pixtral-12b-2409: 53.27% (Differenze Assolute e Distanza Euclidea Normalizzata)
+pixtral-12b-2409: 35.69% (KS-statistic e Jensen-Shannon)
+
+Mistral: 47.33% (Differenze Assolute e Distanza Euclidea Normalizzata)
+Mistral: 51.20% (KS-statistic e Jensen-Shannon)
+

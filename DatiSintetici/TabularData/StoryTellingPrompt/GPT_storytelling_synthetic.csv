@@ -1,0 +1,17 @@
+encounter_id,patient_nbr,race,gender,age,weight,admission_type_id,discharge_disposition_id,admission_source_id,time_in_hospital,payer_code,medical_specialty,num_lab_procedures,num_procedures,num_medications,number_outpatient,number_emergency,number_inpatient,diag_1,diag_2,diag_3,number_diagnoses,max_glu_serum,A1Cresult,metformin,glimepiride,insulin,change,diabetesMed,readmitted,repaglinide,nateglinide,chlorpropamide,acetohexamide,glipizide,glyburide,tolbutamide,pioglitazone,rosiglitazone,acarbose,miglitol,troglitazone,tolazamide,examide,citoglipton,glyburide-metformin,glipizide-metformin,glimepiride-pioglitazone,metformin-rosiglitazone,metformin-pioglitazone
+10000036,30000010,Asian,Male,[60-70),?,1,1,1,8,?,Nephrology,65,1,20,2,1,1,250.42,585.9,401.9,3,>300,>9,Steady,Steady,Up,Ch,Yes,<30,,,,,,,,,,,,,,,,,,,,
+10000026,30000005,Other,Male,[30-40),?,1,1,7,2,?,InternalMedicine,30,0,4,1,0,0,250.01,?,?,1,>200,>7,No,No,No,No,Yes,<30,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+10000027,30000005,Other,Male,[30-40),?,1,1,7,5,?,Endocrinology,50,0,9,1,1,1,250.01,?,?,1,>300,>8,No,No,Up,Ch,Yes,NO,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+10000031,30000006,Caucasian,Female,[60-70),?,1,1,1,4,?,InternalMedicine,42,0,9,1,1,0,250.02,401.9,?,3,>200,>8,Steady,Up,No,No,Yes,<30,,,,,,,,,,,,,,,,,,,,
+10000032,30000006,Caucasian,Female,[60-70),?,1,1,1,6,?,Endocrinology,58,0,15,0,1,1,250.02,272.4,?,3,>300,>9,No,No,Up,Ch,Yes,NO,,,,,,,,,,,,,,,,,,,,
+999999999,123456789,Caucasian,Male,[20-30),,1,1,7,5,MC,InternalMedicine,45,0,12,0,1,2,250.02,790.6,401.9,3,>300,>8,No,No,Up,Ch,Yes,<30,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+10000045,30000013,AfricanAmerican,Female,[40-50),?,1,1,1,9,?,Neurology,66,2,19,1,1,1,250.6,357.2,401.1,3,>300,>9,Steady,Steady,Up,Ch,Yes,<30,,,,,,,,,,,,,,,,,,,,
+10000011,20000002,Caucasian,Female,[40-50),?,1,1,7,4,?,Family/GeneralPractice,35,0,8,0,1,0,250.02,783.0,272.4,3,>200,>8,Steady,No,No,No,Yes,<30,No,No,No,No,No,No,No,Up,No,No,No,No,No,No,No,No,No,No,No,No
+10000012,20000002,Caucasian,Female,[40-50),?,1,1,7,7,?,Endocrinology,60,1,14,1,0,1,250.02,401.1,272.4,3,>300,>8,No,No,Up,Ch,Yes,NO,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+10000043,30000012,Caucasian,Male,[50-60),?,1,1,1,5,?,Ophthalmology,50,1,12,2,0,0,250.5,362.01,401.9,3,>200,>8,Steady,Up,No,No,Yes,<30,,,,,,,,,,,,,,,,,,,,
+10000044,30000012,Caucasian,Male,[50-60),?,1,1,1,7,?,Endocrinology,62,2,18,2,1,1,250.5,362.01,272.4,4,>300,>9,No,No,Up,Ch,Yes,NO,,,,,,,,,,,,,,,,,,,,
+10000001,20000001,Caucasian,Male,[20-30),?,1,1,7,3,?,Emergency/Trauma,40,0,10,0,1,0,250.01,401.9,272.0,3,>300,>8,Steady,No,No,No,Yes,<30,No,No,No,No,Up,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+10000002,20000001,Caucasian,Male,[20-30),?,1,1,7,5,?,Endocrinology,55,1,15,0,1,1,250.01,401.9,272.0,3,>300,>8,No,No,Up,Ch,Yes,NO,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+10000041,30000011,Caucasian,Female,[30-40),?,1,1,7,6,?,Emergency/Trauma,55,1,10,0,1,1,250.13,276.1,?,3,>300,>9,No,No,Up,No,Yes,<30,,,,,,,,,,,,,,,,,,,,
+10000042,30000011,Caucasian,Female,[30-40),?,1,1,7,8,?,Endocrinology,70,2,17,0,1,1,250.13,401.9,?,3,>300,>9,No,No,Up,Ch,Yes,NO,,,,,,,,,,,,,,,,,,,,
+10000025,30000004,Asian,Female,[30-40),?,1,1,7,3,?,Obstetrics,38,0,6,0,0,0,648.8,V22.2,?,2,>200,Norm,No,No,No,No,Yes,NO,No,No,No,No,No,Steady,No,No,No,No,No,No,No,No,No,No,No,No,No,No
