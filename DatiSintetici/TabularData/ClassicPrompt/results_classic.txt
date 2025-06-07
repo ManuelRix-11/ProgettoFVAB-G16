@@ -22,3 +22,6 @@ pixtral-12b-2409: 35.69% (KS-statistic e Jensen-Shannon)
 Mistral: 47.33% (Differenze Assolute e Distanza Euclidea Normalizzata)
 Mistral: 51.20% (KS-statistic e Jensen-Shannon)
 
+Qwen: 81.41% (Differenze Assolute e Distanza Euclidea Normalizzata)
+Qwen: 94.81% (KS-statistic e Jensen-Shannon)
+
