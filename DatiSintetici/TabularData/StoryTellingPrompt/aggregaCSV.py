@@ -3,7 +3,7 @@ import glob
 import os
 
 # Percorso della cartella contenente i CSV
-path = './MISTRAL/'  # Modifica con il tuo percorso
+path = './qwen/'  # Modifica con il tuo percorso
 
 # Ottieni lista di tutti i file CSV nella cartella
 all_files = glob.glob(os.path.join(path, "*.csv"))
@@ -20,4 +20,4 @@ for file in all_files:
 df_finale = pd.concat(df_list, ignore_index=True)
 
 # Salva il risultato
-df_finale.to_csv('Mistral_storytelling_synthetic.csv', index=False)
+df_finale.to_csv('Qwen_storytelling_synthetic.csv', index=False)

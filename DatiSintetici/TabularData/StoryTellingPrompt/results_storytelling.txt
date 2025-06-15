@@ -4,3 +4,21 @@ GPT: 86.46% (KS-statistic e Jensen-Shannon)
 Mistral: 76.77% (Differenze Assolute e Distanza Euclidea Normalizzata)
 Mistral: 78.07% (KS-statistic e Jensen-Shannon)
 
+llama-3.3-70b-versatile: 72.05% (Differenze Assolute e Distanza Euclidea Normalizzata)
+llama-3.3-70b-versatile: 74.49% (KS-statistic e Jensen-Shannon)
+
+mistral-large-2411: 74.31% (Differenze Assolute e Distanza Euclidea Normalizzata)
+mistral-large-2411: 76.35% (KS-statistic e Jensen-Shannon)
+
+mistral-small-2503: 72.89% (Differenze Assolute e Distanza Euclidea Normalizzata)
+mistral-small-2503: 74.41% (KS-statistic e Jensen-Shannon)
+
+pixtral-12b-2409: 53.75% (Differenze Assolute e Distanza Euclidea Normalizzata)
+pixtral-12b-2409: 58.34% (KS-statistic e Jensen-Shannon)
+
+llama3.2: 44.07% (Differenze Assolute e Distanza Euclidea Normalizzata)
+llama3.2: 47.87% (KS-statistic e Jensen-Shannon)
+
+Qwen: 60.24% (Differenze Assolute e Distanza Euclidea Normalizzata)
+Qwen: 68.14% (KS-statistic e Jensen-Shannon)
+
