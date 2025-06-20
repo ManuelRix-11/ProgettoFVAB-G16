@@ -22,3 +22,6 @@ llama3.2: 47.87% (KS-statistic e Jensen-Shannon)
 Qwen: 60.24% (Differenze Assolute e Distanza Euclidea Normalizzata)
 Qwen: 68.14% (KS-statistic e Jensen-Shannon)
 
+gemma: 58.18% (Differenze Assolute e Distanza Euclidea Normalizzata)
+gemma: 62.01% (KS-statistic e Jensen-Shannon)
+

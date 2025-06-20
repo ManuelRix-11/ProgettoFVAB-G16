@@ -1,4 +1,11 @@
 encounter_id,patient_nbr,race,gender,age,weight,admission_type_id,discharge_disposition_id,admission_source_id,time_in_hospital,payer_code,medical_specialty,num_lab_procedures,num_procedures,num_medications,number_outpatient,number_emergency,number_inpatient,diag_1,diag_2,diag_3,number_diagnoses,max_glu_serum,A1Cresult,metformin,glimepiride,insulin,change,diabetesMed,readmitted,repaglinide,nateglinide,chlorpropamide,acetohexamide,glipizide,glyburide,tolbutamide,pioglitazone,rosiglitazone,acarbose,miglitol,troglitazone,tolazamide,examide,citoglipton,glyburide-metformin,glipizide-metformin,glimepiride-pioglitazone,metformin-rosiglitazone,metformin-pioglitazone
-1,1000001,,"Male",25,,,"",,,"",1,"",,"",0,0,0,0,0,1,"","",4,">300",0.0,"","",,"",,"",,"",,"",,,,,,,0,"","",
-10000038,10000006,,"Male",28,,,"",,,"",1,"",,"",0,0,1,0,0,0,100,"250",,"",4,">310",0.0,"","",,"",,"",,"",,"",,,,,,,0,"","",
-10000039,10000007,,"Female",42,,,"",1,">280","","",""," ",4,">280",,record_1,0,0,2,0,0,0,0,0,1,,"","","No,No,No, No,No,No,,No,No,No, ,,0,0,0,0,0,0,0
+12345678,12345678,1,1,1,2,23,0,5,0,0,0,5,White,Male,25,75,ins,Cardiology,'250',250.01,'250',300,None,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Ch,Yes,NO
+68759857,21643255,?,Male,28,?,?,7,1,7,1,?,Endocrinology,43,0,12,0,0,0,0,?,250,250,?,None,?,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,NO
+12345678,987654321,2,4,7,4,43,0,12,0,0,0,3,European,Female,42,?,SP,Endocrinology,250.01,280,2,350,?,No,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,Yes,No,NO,
+1224756,"35421836",3,1,7,3,23,0,7,0,0,0,1,Asian,Female,35,?,SP,Pregnancy,","220",,"None",None,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Ch,Yes,":" ','
+NULL,68759860,3,1,7,2,43,0,12,0,0,0,3,White,Male,38,70,SP,Endocrinology,250,250,250,240,None,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Ch,Yes,NO
+,63295714,?,?,?,?,?,?,?,?,?,?,?,?,?,White,Female,65,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,NO ''
+123456789,987654321,3,1,7,6,12,0,10,0,0,2,4,'White','Male',58,?,?,?,Ophthalmology,250.01,??,250,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+12345678,90123456,3,1,7,8,43,0,12,0,0,0,3,Caucasian,Male,61,?,?,SP,Endocrinology,250.01,250,None,None,No,No,No,No,No,No,No,No,No,No,No,No,No,Ch,Yes,NO
+12345678,98765432,3,1,7,9,43,0,13,0,1,0,3,Other,Female,46,?,SP,Neurology,250.01,250,None,None,No,No,No,No,No,No,No,No,No,No,No,Ch,Yes,NO
+122222678,987666432,3,1,7,9,43,0,13,0,1,0,3,Other,Female,46,?,SP,Neurology,250.01,250,None,None,No,No,No,No,No,No,No,No,No,No,No,Ch,Yes,NO
