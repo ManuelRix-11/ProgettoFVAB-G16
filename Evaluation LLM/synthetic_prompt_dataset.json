@@ -1,0 +1,102 @@
+[
+    {
+        "question": "Generami i dati clinici di un paziente affetto da diabete di tipo 1, ricoverato presso una clinica endocrinologica per episodi ricorrenti di ipoglicemia notturna.",
+        "answer": "Paziente maschio di 29 anni, affetto da diabete di tipo 1 diagnosticato all'età di 14 anni, in terapia insulinica con microinfusore. Ricoverato presso la Clinica Endocrinologica San Luca per monitoraggio e gestione di episodi ricorrenti di ipoglicemia notturna (valori glicemici <50 mg/dL), riferiti 3-4 volte a settimana. All'ingresso HbA1c pari a 7,9%. ECG e funzionalità renale nella norma. In corso rivalutazione del profilo basale/bolo e introduzione di CGM in continuo con allarmi notturni attivi."
+    },
+    {
+        "question": "Genera una breve storia clinica di una donna con diabete di tipo 2, con complicanza nefropatica, seguita in ambito ambulatoriale.",
+        "answer": "Paziente di sesso femminile, 68 anni, affetta da diabete mellito di tipo 2 da oltre 15 anni, attualmente in trattamento con metformina e insulina NPH serale. Riferisce recente riscontro di microalbuminuria (150 mg/24h) e lieve riduzione del filtrato glomerulare (eGFR 58 ml/min). Non dolore, PA media 145/85 mmHg. Seguita ambulatorialmente con controlli trimestrali presso il Centro Diabetologico dell’Ospedale Santa Chiara. In corso valutazione per eventuale ACE-inibitore per nefroprotezione."
+    },
+    {
+        "question": "Scrivimi un referto clinico simulato per un giovane paziente con esordio recente di diabete tipo 1, ricoverato per chetoacidosi diabetica.",
+        "answer": "Paziente di 17 anni, giunto in Pronto Soccorso per vomito, astenia e respiro affannoso. All'ingresso: glicemia 450 mg/dL, pH 7.18, chetonemia elevata. Diagnosi di chetoacidosi diabetica in paziente con esordio recente di diabete di tipo 1. Ricoverato in Unità di Medicina d’Urgenza, avviata terapia con fluidi EV, insulina rapida e correzione elettrolitica. Buona risposta clinica. Iniziata educazione terapeutica in reparto e impostazione del piano insulinico multidose al momento della dimissione."
+    },
+    {
+        "question": "Generami una scheda clinica sintetica di un paziente diabetico con retinopatia avanzata, in cura presso un centro specializzato.",
+        "answer": "Paziente maschio, 64 anni, con storia di diabete tipo 2 da 20 anni. In terapia con insulina glargine e ipoglicemizzanti orali. Retinopatia diabetica proliferante bilaterale con edema maculare. In cura presso il Centro Retina dell’Ospedale Oftalmico Regionale. Ha eseguito 3 cicli di fotocoagulazione laser e due iniezioni intravitreali negli ultimi 6 mesi. Ultimo visus rilevato: OD 4/10, OS 3/10. In corso follow-up bimestrale oftalmologico e ottimizzazione del controllo glicemico (HbA1c 8.3%)."
+    },
+    {
+        "question": "Simula i dati clinici essenziali di un paziente affetto da diabete gestazionale, al terzo trimestre di gravidanza.",
+        "answer": "Paziente di 33 anni, gravida alla 30a settimana, con diagnosi di diabete gestazionale effettuata alla 26a settimana tramite OGTT alterato (valori: 95/185/155 mg/dL). BMI pregravidico: 27. Segue piano nutrizionale personalizzato e automonitoraggio glicemico domiciliare. In terapia dietetica, senza necessità di insulina. Curve glicemiche stabili, senza picchi post-prandiali superiori a 130 mg/dL. Nessuna segnalazione di ipoglicemie. Ecografie ostetriche regolari con accrescimento fetale nella norma."
+    },
+    {
+        "question": "Generami una cartella clinica fittizia per un paziente diabetico anziano con piede diabetico infetto.",
+        "answer": "Paziente di 75 anni, con diabete mellito di tipo 2 da oltre 25 anni, in trattamento insulinico. Presenta ulcera infetta al piede destro, regione plantare, con segni flogistici locali e secrezione purulenta. Esame colturale positivo per Staphylococcus aureus. Ricoverato presso l'Unità Piede Diabetico per medicazioni avanzate, antibiotico EV e sbrigliamento chirurgico. In terapia con piperacillina-tazobactam. In corso valutazione vascolare e programma di riabilitazione post-dimissione."
+    },
+    {
+        "question": "Scrivimi una breve anamnesi per un soggetto obeso con diabete tipo 2 mal controllato e ipertensione arteriosa.",
+        "answer": "Paziente di 58 anni, sesso maschile, BMI 36, diagnosi di diabete tipo 2 da 8 anni con HbA1c attuale 9,2%. Nonostante trattamento con metformina e glinidi, controllo metabolico inadeguato. Riferisce alimentazione disordinata e sedentarietà. Ipertensione arteriosa in trattamento con amlodipina 10 mg. Non complicanze oculari note, ECG recente con ipertrofia ventricolare sinistra. Consigliato avvio di terapia insulinica basale e intervento nutrizionale intensivo."
+    },
+    {
+        "question": "Crea un referto clinico fittizio di una paziente diabetica ricoverata per iperglicemia iperosmolare.",
+        "answer": "Paziente femmina di 72 anni, giunta in PS per confusione mentale, disidratazione, ipotensione. All’ingresso: glicemia 820 mg/dL, osmolarità plasmatica 340 mOsm/kg, assenza di chetoni. Diagnosi di sindrome iperglicemica iperosmolare. Ricoverata in Medicina Interna, trattata con fluidoterapia intensiva, insulina rapida EV e correzione degli elettroliti. In miglioramento clinico progressivo. In attesa di definire piano di gestione cronica e supporto familiare post-dimissione."
+    },
+    {
+        "question": "Generami una descrizione sintetica per un paziente pediatrico con diabete tipo 1 in fase di stabilizzazione terapeutica.",
+        "answer": "Bambino di 9 anni, esordio recente di diabete di tipo 1 diagnosticato 3 settimane fa. In regime di ricovero educativo presso U.O. di Diabetologia Pediatrica. In terapia con insulina basale/bolo e in corso addestramento per l’autogestione. Ottima aderenza familiare. HbA1c iniziale 10,8%, attualmente in calo. Nessuna complicanza acuta. In fase di valutazione per CGM e possibilità futura di microinfusore. Supporto psicologico attivo. Dimissione prevista in 3 giorni."
+    },
+    {
+        "question": "Crea una breve storia clinica inventata per un paziente con diabete e neuropatia periferica dolorosa.",
+        "answer": "Paziente uomo, 62 anni, con diabete tipo 2 da 18 anni, in trattamento con insulina e metformina. Riferisce dolore urente ai piedi, prevalentemente notturno, associato a ridotta sensibilità tattile e termica. Test monofilamento positivo bilateralmente. Diagnosi di neuropatia diabetica periferica. Iniziata terapia con pregabalin 75 mg BID. In corso rivalutazione clinica presso ambulatorio diabetologico multidisciplinare. Nessuna ulcera o lesione cutanea presente."
+    },
+    {
+    "question": "Generami i dati clinici di un paziente con diabete tipo 2 ricoverato per infarto miocardico acuto.",
+    "answer": "Paziente di 66 anni, maschio, affetto da diabete tipo 2 da 12 anni, in terapia con metformina e sitagliptin. Ricoverato d'urgenza per dolore toracico e dispnea. ECG all’ingresso con sopraslivellamento ST in sede anteriore, troponina elevata. Diagnosi di infarto miocardico acuto STEMI. Eseguita coronarografia con posizionamento di stent su IVA. Glicemie in ingresso >300 mg/dL. Avviata terapia insulinica temporanea in reparto e follow-up cardiologico e diabetologico."
+  },
+  {
+    "question": "Scrivimi una storia clinica sintetica per un paziente con diabete di tipo 1 in trattamento con microinfusore insulinico.",
+    "answer": "Paziente di 35 anni, affetto da diabete tipo 1 dall’età di 12 anni. In terapia con microinfusore da 5 anni, con sensore CGM integrato. Buon controllo glicemico (HbA1c 6,9%), frequenti monitoraggi. Nessuna complicanza microvascolare nota. Attivo fisicamente. In follow-up annuale presso ambulatorio di tecnologia diabetica. Ultimi controlli: funzione renale e fundus oculi nei limiti. Nessun evento ipoglicemico severo riferito nell'ultimo anno."
+  },
+  {
+    "question": "Generami una descrizione per un paziente diabetico ricoverato per infezione delle vie urinarie complicata.",
+    "answer": "Paziente femmina di 71 anni, diabetica tipo 2, in terapia insulinica. Ricoverata per febbre, disuria e stato confusionale. Diagnosi di pielonefrite complicata da batteriemia da E. coli (ESBL+). Avviata terapia antibiotica mirata con meropenem EV. Glicemie instabili al ricovero, corrette con insulina rapida. Monitoraggio clinico, idratazione intensiva e follow-up nefrologico in corso. Miglioramento progressivo e stabilizzazione metabolica in corso."
+  },
+  {
+    "question": "Scrivimi i dati clinici fittizi di una donna in gravidanza con diabete pregestazionale tipo 1.",
+    "answer": "Paziente di 30 anni, gravida alla 22ª settimana, affetta da diabete tipo 1 da 15 anni. In terapia con microinfusore e CGM. Glicemie stabili, HbA1c 6,5%. Nessuna complicanza diabetica pregressa. Ecografie fetali regolari. Nessun segno di macrosomia o polidramnios. Controlli frequenti presso ambulatorio di gravidanza a rischio. Educazione alimentare intensiva. Nessuna ipoglicemia severa registrata dall'inizio della gestazione."
+  },
+  {
+    "question": "Generami una storia clinica per un paziente anziano con diabete tipo 2 e demenza lieve.",
+    "answer": "Paziente maschio, 82 anni, con diabete tipo 2 da oltre 20 anni, in terapia con insulina basale. Diagnosi recente di demenza vascolare lieve, MMSE 22/30. Glicemie spesso instabili a causa di dimenticanze nella somministrazione. Ricoverato per episodio ipoglicemico severo (glicemia 35 mg/dL). Rivalutato piano terapeutico: passaggio a terapia orale semplificata e supporto familiare. Presa in carico da parte di assistente sociale e UVM territoriale."
+  },
+  {
+    "question": "Crea una descrizione sintetica per un paziente con diabete tipo LADA.",
+    "answer": "Paziente di 41 anni, inizialmente diagnosticato con diabete tipo 2, in realtà affetto da diabete autoimmune latente (LADA), confermato da positività anti-GAD e C-peptide basso. In terapia con insulina basale e bolo. Glicemie ben controllate (HbA1c 7%). Nessuna complicanza rilevata. In follow-up presso centro specialistico per monitoraggio progressione malattia. Buona adesione terapeutica e coinvolgimento attivo nella gestione del diabete."
+  },
+  {
+    "question": "Generami i dati clinici fittizi di una giovane paziente con diabete tipo 1 e disturbo del comportamento alimentare.",
+    "answer": "Paziente di 19 anni, affetta da diabete tipo 1 da 8 anni, in terapia con multi-iniezioni. Riferita recente perdita di peso involontaria e scarso controllo glicemico (HbA1c 10,2%). Sospetto di DCA (diabulimia). Ricoverata presso U.O. di Medicina per rivalutazione clinica e supporto psicologico. In corso inserimento in percorso multidisciplinare con nutrizionista, diabetologo e psicoterapeuta. Episodi frequenti di omissione dell’insulina. Educazione terapeutica in atto."
+  },
+  {
+    "question": "Scrivimi una storia clinica simulata per un paziente affetto da diabete tipo 2 e complicanza cardiovascolare.",
+    "answer": "Paziente uomo, 60 anni, con diabete tipo 2 da 10 anni. Ipertensione e dislipidemia associate. Riferito episodio di angina da sforzo. Eseguito test da sforzo positivo, seguito da coronarografia che ha evidenziato stenosi significativa. Avviata terapia con statina, ACE-inibitore e SGLT2-inibitore. Controllo glicemico buono (HbA1c 7,1%). In follow-up cardio-metabolico con obiettivo di prevenzione secondaria e controllo dei fattori di rischio."
+  },
+  {
+    "question": "Crea una descrizione clinica sintetica per un paziente con diabete e obesità grave in valutazione per chirurgia bariatrica.",
+    "answer": "Paziente femmina, 39 anni, BMI 44, affetta da diabete tipo 2 insulino-trattato. HbA1c 9,5%, insulino-resistenza severa. In valutazione multidisciplinare per chirurgia bariatrica presso centro di riferimento. In corso screening pre-operatorio (endocrino, psicologico, dietetico). Buona motivazione al cambiamento. Nessuna controindicazione maggiore emersa. Prevista sleeve gastrectomy laparoscopica entro due mesi."
+  },
+  {
+    "question": "Simula un caso clinico di paziente con diabete tipo 1 e ipoglicemie notturne frequenti.",
+    "answer": "Paziente di 28 anni, diabete tipo 1 dall’infanzia, in terapia con insulina basale/bolo. Riferisce frequenti episodi di ipoglicemia tra le 2:00 e le 4:00 del mattino. In corso valutazione del profilo insulinico e correzione delle dosi serali. Educato all’uso di CGM con allarmi notturni. HbA1c 7,5%, nessun evento ipoglicemico severo ma impatto importante sulla qualità del sonno. In osservazione presso ambulatorio per eventuale switch a microinfusore."
+  },
+  {
+    "question": "Scrivimi i dati clinici sintetici di un paziente con diabete e complicanza oculare diagnosticata da poco.",
+    "answer": "Paziente di 55 anni, affetto da diabete tipo 2 da 13 anni, in buon compenso glicemico (HbA1c 7,2%). Durante controllo oculistico di routine evidenziata retinopatia non proliferante moderata, con microaneurismi e lievi emorragie a fiamma. Visus conservato. Prescritto follow-up semestrale e ottimizzazione del profilo pressorio. Nessuna altra complicanza microvascolare emersa. Prosegue terapia ipoglicemizzante con GLP1-agonista e metformina."
+  },
+  {
+    "question": "Generami una breve anamnesi per un paziente con diabete tipo 2 e insufficienza renale cronica stadio 3.",
+    "answer": "Paziente uomo, 69 anni, diabete tipo 2 da 16 anni, in trattamento con insulina e metformina (recentemente sospesa). eGFR 42 ml/min, proteinuria moderata persistente. Ipertensione ben controllata. Nessuna dialisi necessaria al momento. In follow-up con nefrologo e diabetologo. Terapia attuale con insulina basale, ACE-inibitore, dieta ipoproteica. Monitoraggio trimestrale della funzione renale e adeguamento dosaggi farmacologici."
+  },
+  {
+    "question": "Crea una cartella clinica fittizia per un paziente con diabete e complicanza neuropatica autonoma.",
+    "answer": "Paziente maschio, 57 anni, con diabete tipo 2 in discreto controllo metabolico (HbA1c 7,4%). Lamenta episodi ricorrenti di ipotensione ortostatica, gastroparesi (sazietà precoce, nausea) e disfunzione erettile. Diagnosi di neuropatia diabetica autonomica. In corso terapia sintomatica con domperidone e fludrocortisone. Monitoraggio clinico regolare. Valutazione specialistica in atto per trattamento integrato dei sintomi."
+  },
+  {
+    "question": "Generami una storia clinica simulata di una paziente diabetica ricoverata per appendicite acuta.",
+    "answer": "Paziente donna, 46 anni, affetta da diabete tipo 2 in trattamento con metformina. Ricoverata d’urgenza per dolore addominale acuto in fossa iliaca destra. Diagnosi di appendicite acuta confermata da ecografia e TC. Eseguita appendicectomia laparoscopica. Post-operatorio regolare, glicemie gestite con insulina rapida correttiva. Dimessa in V giornata post-intervento in buone condizioni generali, con follow-up chirurgico e diabetologico programmato."
+  },
+  {
+    "question": "Crea una scheda clinica inventata per un paziente con diabete e sindrome delle apnee notturne.",
+    "answer": "Paziente maschio, 52 anni, con obesità (BMI 35) e diabete tipo 2. Riferisce sonnolenza diurna, russamento e risvegli frequenti. Polisonnografia conferma OSAS moderata (AHI 22). In terapia con CPAP notturna da 3 mesi. Miglioramento della qualità del sonno. HbA1c 8,1% in lieve miglioramento. In corso programma dietetico e attività fisica. Monitoraggio clinico integrato presso centro pneumologico-metabolico."
+  }
+]
